@@ -1,0 +1,2 @@
+# SOLID-EJERCICIO-JUEGO-ROLES
+Principios Solid
